@@ -6,6 +6,7 @@
 ### 2) Learn from other people’s mistakes
 ### 3) give value to your efforts 
 # Markdown features 
-## 1) Formating words **This text will be bold** or **This text will be italic**
+## 1) Formating words 
+**This text will be bold** **This text will be italic**
 
 
