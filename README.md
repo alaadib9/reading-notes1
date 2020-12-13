@@ -5,8 +5,8 @@
 ### 1) Keep pushing yourself to the limits 
 ### 2) Learn from other people’s mistakes
 ### 3) give value to your efforts 
-# Markdown features 
+## Markdown features 
 ## 1) Formating words 
-**This text will be bold** **This text will be italic**
+*This text will be italic*
 
 
