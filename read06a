@@ -1,0 +1,24 @@
+Using data, machine creates module to the world
+You write code that utilizes the web page browsing paradigm to make web pages interactive.
+HOW HTML, CSS,& JAVASCRIPT FIT TOGETHER:
+Typically, web developers talk It's about three languages which They are used for building web pages: CSS, HTML, and JavaScript
+CSS
+The Accessories
+Cascading Style Sheet (CSS)
+Gives style and structure to the content
+Link the CSS file to the HTML
+Tells the browser how to display
+HTML
+The Body
+HyperText Markup Language (HTML)
+Content and basic structure
+Describes and defines
+Made up of tags
+Tells the browser what to display
+
+JavaScript
+The body’s ability to perform actions
+JavaScript is not Java
+Behaviour of the website
+Used for interactive functionality
+Allows for the user to interact with the browser
